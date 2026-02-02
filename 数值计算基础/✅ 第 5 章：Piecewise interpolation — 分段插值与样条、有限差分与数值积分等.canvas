@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0e3920ab94537bc8","type":"file","file":"数据谷/数值计算基础/🔹 5.1 The Interpolation Problem（插值问题）.md","x":-1000,"y":-480,"width":400,"height":400},
+		{"id":"ec50e375da278067","type":"file","file":"数据谷/数值计算基础/🔹 5.2 Piecewise Linear Interpolation（分段线性插值）.md","x":-560,"y":-480,"width":400,"height":400},
+		{"id":"1bb06b793fd9261a","type":"file","file":"数据谷/数值计算基础/🔹 5.3 Cubic Splines（三次样条插值）.md","x":-120,"y":-480,"width":400,"height":400},
+		{"id":"fe98d31083e051fe","type":"file","file":"数据谷/数值计算基础/🔹 5.4 Finite Differences（有限差分法）.md","x":-1000,"y":-40,"width":400,"height":400},
+		{"id":"a088e6396a840353","type":"file","file":"数据谷/数值计算基础/🔹 5.5 Convergence of Finite Differences（有限差分法的收敛性）.md","x":-560,"y":-40,"width":400,"height":400},
+		{"id":"0f2e1164ac9e35d4","type":"file","file":"数据谷/数值计算基础/🔹 5.6 Numerical Integration（数值积分）.md","x":-120,"y":-40,"width":400,"height":400},
+		{"id":"f003061bbdb9cbd0","type":"file","file":"数据谷/数值计算基础/🔹 5.7 Adaptive Integration（自适应积分）.md","x":-1000,"y":400,"width":400,"height":400}
+	],
+	"edges":[]
+}

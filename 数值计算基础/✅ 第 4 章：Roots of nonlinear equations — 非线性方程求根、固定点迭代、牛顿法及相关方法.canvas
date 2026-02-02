@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0bba6b04edd8f94f","type":"file","file":"数据谷/数值计算基础/🔹 4.1 The Rootfinding Problem（求根问题）.md","x":-1280,"y":-840,"width":400,"height":400},
+		{"id":"688f8d1430de0549","type":"file","file":"数据谷/数值计算基础/🔹 4.2 Fixed-point iteration（定点迭代）.md","x":-840,"y":-840,"width":400,"height":400},
+		{"id":"05762bedca177d22","type":"file","file":"数据谷/数值计算基础/🔹 4.3 Newton’s Method in One Variable（单变量牛顿法）.md","x":-400,"y":-840,"width":400,"height":400},
+		{"id":"10f3e6be815a8f7a","type":"file","file":"数据谷/数值计算基础/🔹 4.4 Interpolation-based Methods（基于插值的方法）.md","x":-1280,"y":-400,"width":400,"height":400},
+		{"id":"af4e75e7c25505c3","type":"file","file":"数据谷/数值计算基础/🔹 4.5 Newton's Method for Nonlinear Systems（牛顿法用于非线性系统）.md","x":-840,"y":-400,"width":400,"height":400},
+		{"id":"7c125af280167fe0","type":"file","file":"数据谷/数值计算基础/🔹 4.6 Quasi-Newton Methods（拟牛顿法）.md","x":-400,"y":-400,"width":400,"height":400},
+		{"id":"fb47426fb3673f1c","type":"file","file":"数据谷/数值计算基础/🔹 4.7 Nonlinear Least Squares（非线性最小二乘法）.md","x":-1280,"y":40,"width":400,"height":400}
+	],
+	"edges":[]
+}

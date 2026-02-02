@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"20c013f8e49f08fd","x":-420,"y":-180,"width":400,"height":400,"type":"file","file":"数据谷/数值计算基础/🔹 8.1. Sparsity and structure (稀疏性和结构).md"},
+		{"id":"a041ea06256f8d07","x":0,"y":-180,"width":400,"height":400,"type":"file","file":"数据谷/数值计算基础/🔹 8.2. Power iteration (功率迭代).md"},
+		{"id":"97957f7142e2e75b","x":420,"y":-180,"width":400,"height":400,"type":"file","file":"数据谷/数值计算基础/🔹 8.3. Inverse iteration (逆迭代).md"}
+	],
+	"edges":[]
+}

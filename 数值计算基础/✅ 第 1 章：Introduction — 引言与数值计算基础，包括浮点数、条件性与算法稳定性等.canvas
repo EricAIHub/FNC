@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"62aa517ee2d4c2ad","type":"file","file":"数据谷/数值计算基础/🔹 1.1 Floating-Point Numbers（浮点数系统）.md","x":-560,"y":-360,"width":400,"height":400},
+		{"id":"8d048241b01669fd","type":"file","file":"数据谷/数值计算基础/🔹 1.2 Loss of Significance（有效数字损失）.md","x":-120,"y":-360,"width":400,"height":400},
+		{"id":"26ff651a9c6f560f","type":"file","file":"数据谷/数值计算基础/🔹 1.3 Backward and Forward Error（前向误差与后向误差）.md","x":320,"y":-360,"width":400,"height":400},
+		{"id":"0bf9d62e09927ea1","type":"file","file":"数据谷/数值计算基础/🔹 1.4 Conditioning（问题的条件数）.md","x":-560,"y":80,"width":400,"height":400},
+		{"id":"441647e7c4b85faf","type":"file","file":"数据谷/数值计算基础/🔹 1.5 Stability of Algorithms（算法稳定性）.md","x":-120,"y":80,"width":400,"height":400},
+		{"id":"39bb67cfbe03da2d","type":"file","file":"数据谷/数值计算基础/🔹 1.6 Algorithms and Complexity（算法复杂度）.md","x":320,"y":80,"width":400,"height":400}
+	],
+	"edges":[]
+}
