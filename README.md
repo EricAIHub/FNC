@@ -66,7 +66,9 @@
 </div>
 
 - **技术交流/报错纠错**：请提交 **Issue** 或在 CSDN 评论区留言。
-- **算法咨询/私教辅导**：WeChat: `Eric_Wangziyi` (备注：FNC咨询)。
+ <!-- 
+ **算法咨询/私教辅导**：WeChat: `Eric_Wangziyi` (备注：FNC咨询)。
+ -->
 
 ---
 
