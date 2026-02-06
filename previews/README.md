@@ -25,17 +25,22 @@
 
 ## 🖼 视觉演示 | Visual Gallery
 
-以下是本项目在 Obsidian 环境下的真实运行截图（您可以查看本目录下的 Demo 图片文件）：
+以下展示了本项目的1.1章节在 Obsidian 环境下的真实阅读场景（已缩放至合适尺寸）：
 
-### 🟢 1. 深度学习与数值分析的跨学科关联
-![知识关联演示](./Demo_1.png)
 
-### 🔵 2. 优雅的 LaTeX 公式排版
-![公式渲染演示](./Demo_2.png)
+<img src="./Demo_1.png" width="600" alt="Knowledge Association">
 
-### 🟡 3. 结构化的章节索引与双向链接
-![索引演示](./Demo_3.png)
 
+<img src="./Demo_2.png" width="600" alt="LaTeX Rendering">
+
+
+<img src="./Demo_3.png" width="600" alt="Index View">
+
+
+<img src="./Demo_4.png" width="600" alt="Code Integration">
+
+
+<img src="./Demo_5.png" width="600" alt="Full Graph View">
 ---
 
 ## 🚀 立即开启体验
