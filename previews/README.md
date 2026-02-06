@@ -29,17 +29,9 @@
 
 
 <img src="./Demo_1.png" width="600" alt="Knowledge Association">
-
-
 <img src="./Demo_2.png" width="600" alt="LaTeX Rendering">
-
-
 <img src="./Demo_3.png" width="600" alt="Index View">
-
-
 <img src="./Demo_4.png" width="600" alt="Code Integration">
-
-
 <img src="./Demo_5.png" width="600" alt="Full Graph View">
 ---
 
