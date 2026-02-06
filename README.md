@@ -23,9 +23,10 @@
 如果您觉得本专栏的内容对您有帮助，欢迎请博主喝杯咖啡，支持硬核干货持续产出！
 
 <div align="center">
-    <img src="![cf2a34a62fc876a09155c721ee0b91f2](https://github.com/user-attachments/assets/8ffc5243-31b0-41a8-b0e7-d331b3264790)" width="250px">
+    <img src="https://github.com/user-attachments/assets/ee439f78-cb5a-4234-9362-0cdae89438c1" width="250px">
     <p><b>扫码支持博主 (微信/支付宝)</b></p>
 </div>
+
 
 - **项目交流/技术咨询**：请在 CSDN 私信或在 GitHub 提交 Issue。
 - **商务/私教**：WeChat: `你的微信号` (备注：FNC咨询)
