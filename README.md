@@ -27,13 +27,13 @@
 - [【FNC数值分析 1.1】浮点数系统：从 0.1 + 0.2 ≠ 0.3 说起](<./FNC数值分析/Tutorials/Chapter-01/1.1 Floating-Point Numbers.md>)
 - [【FNC数值分析 1.2】有效数字损失：详解“灾难性消去”与稳定性优化](<./FNC数值分析/Tutorials/Chapter-01/1.2 Loss of Significance.md>)
 - [【FNC数值分析 1.3】前向误差与后向误差：为什么说“好算法”不怕输入错一点？](<./FNC数值分析/Tutorials/Chapter-01/1.3 Backward and Forward Error.md>)
-- [1.4 条件数与稳定性：为什么深层网络需要 ResNet?](./FNC数值计算基础/Tutorials/Chapter-01/1.4-Conditioning.md)
-- [1.5 数值稳定性：算法的自我救赎](./FNC数值计算基础/Tutorials/Chapter-01/1.5-Stability.md) *(Coming Soon)*
+- [【FNC数值分析 1.4】问题的条件性 (Conditioning)：为什么有的问题“天生”就难算？](./FNC数值计算基础/Tutorials/Chapter-01/1.4-Conditioning.md)
+- [【FNC数值分析 1.5】数值稳定性：为什么简单的算法也会在关键时刻“翻车”？](./FNC数值计算基础/Tutorials/Chapter-01/1.5-Stability.md) *(Coming Soon)*
 
 ### 🟡 第二阶段：线性代数计算 (Linear Systems)
 *解构所有 AI 算子的底层基石。*
 
-- [2.x 系列：LU分解、主元策略与病态系统处理](./FNC数值计算基础/Drafts/) *(实验室孵化中)*
+- [【FNC数值分析 2.x】系列：LU分解、主元策略与病态系统处理](./FNC数值计算基础/Drafts/) *(实验室孵化中)*
 
 ---
 
