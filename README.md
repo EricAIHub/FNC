@@ -24,7 +24,7 @@
 ### 🟢 第一阶段：数值计算基础 (Fundamentals)
 *掌握计算机的“脾气”，理解误差的本质。*
 
-- [【FNC数值分析 1.1】浮点数系统：从 0.1 + 0.2 ≠ 0.3 说起](./Tutorials/Chapter-01/1.1 Floating-Point Numbers.md)
+- [【FNC数值分析 1.1】浮点数系统：从 0.1 + 0.2 ≠ 0.3 说起](<./FNC数值分析/Tutorials/Chapter-01/1.1 Floating-Point Numbers.md>)
 - [1.2 有效数字丢失：减法引发的数值灾难](./Tutorials/Chapter-01/1.2%20Loss%20of%20Significance%20（有效数字...）.md)
 - [1.3 前向与后向误差：衡量算法优劣的终极标尺](./FNC数值计算基础/Tutorials/Chapter-01/1.3%20Backward%20and%20Forward%20Error%20（前向...）.md)
 - [1.4 条件数与稳定性：为什么深层网络需要 ResNet?](./FNC数值计算基础/Tutorials/Chapter-01/1.4-Conditioning.md)
